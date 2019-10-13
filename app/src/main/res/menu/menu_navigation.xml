@@ -9,5 +9,5 @@
         android:id="@+id/menu_profil"
         android:icon="@drawable/ic_account"
         android:title="@string/myprofil"/>
-
+/
 </menu>
